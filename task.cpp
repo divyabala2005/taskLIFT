@@ -35,7 +35,6 @@ void print(){
     int closer=count_3<close?count_3:close;
     int closest=count_4<closer?count_4:closer;
     cout<<"Closest lift count: "<<closest<<endl;
-    cout<<"Please choose Lift No 3: "<<endl;
     
     
 }
